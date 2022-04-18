@@ -1,7 +1,7 @@
 # Quiz
 
 ## Description
-this site for generate password.
+this site is code quiz .
 ## Table Of Content
 - [Description](#description)
 - [Table Of Content](#table-of-content)
@@ -15,8 +15,8 @@ this site for generate password.
 * CSS
 * Java Script
 ## Usage
+![Screenshot (23)](https://user-images.githubusercontent.com/100746995/163745140-b6e7aba3-d6fa-421f-9359-272e3382d35d.png)
 
-![Screenshot (16)](https://user-images.githubusercontent.com/100746995/162674837-d76bcc11-db40-477f-b21b-9d1c011e13d0.png)
 
 
 ## Website
