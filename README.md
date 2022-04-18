@@ -20,7 +20,6 @@ this site is code quiz .
 
 
 ## Website
-https://osmana1993.github.io/challenge3/
-
+https://osmana1993.github.io/Quiz/
 ## Contribution
 Made with ❤️ by [Osman Ali]
